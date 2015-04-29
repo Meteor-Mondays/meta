@@ -1,2 +1,3 @@
-# meta
-Meetup-related notes such as equipment list, screen sharing methods, best practices, should go here.
+#meta
+
+Check out the Wiki to the right for more info. ------------------------------>
